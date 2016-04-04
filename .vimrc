@@ -67,7 +67,7 @@ nmap <leader>w :w!<cr>
 " => VIM user interface
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Open line number
-set number
+" set number
 
 " Set 7 lines to the cursor - when moving vertically using j/k
 set so=7
